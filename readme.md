@@ -29,19 +29,7 @@ Key features of MoBA include:
 
 ![MoBA Architecture](assets/moba_architecture.png)
 
-## Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/MoonshotAI/MoBA.git
-cd MoBA
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Install the package
-pip install -e .
-```
 
 Requirements:
 - Python 3.8+
