@@ -13,7 +13,6 @@ Implementation of **MoBA: Mixture of Block Attention for Long-Context LLMs** as 
 - [Implementation Details](#implementation-details)
 - [Performance](#performance)
 - [Citation](#citation)
-- [License](#license)
 
 ## Overview
 
